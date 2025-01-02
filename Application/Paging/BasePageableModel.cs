@@ -1,4 +1,4 @@
-namespace Persistence.Paging;
+namespace Application.Paging;
 
 public abstract class BasePageableModel
 {

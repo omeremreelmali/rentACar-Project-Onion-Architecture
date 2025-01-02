@@ -1,4 +1,4 @@
-namespace Persistence.Dynamic;
+namespace Application.Dynamic;
 
 public class Filter
 {

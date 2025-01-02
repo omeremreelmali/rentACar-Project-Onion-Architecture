@@ -25,4 +25,10 @@
       <ProjectReference Include="..\Domain\Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="Application">
+        <HintPath>bin\Debug\net8.0\Application.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

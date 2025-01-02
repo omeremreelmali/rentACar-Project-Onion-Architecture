@@ -1,4 +1,4 @@
-namespace Persistence.Repositories;
+namespace Application.Services.Repositories;
 
 public interface IEntityTimestamps
 {
